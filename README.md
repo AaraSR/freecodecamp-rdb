@@ -4,7 +4,7 @@
 
 Project Instructions Link: [freeCodeCamp: Build a Celestial Bodies Database](https://www.freecodecamp.org/learn/relational-databases-v9/lab-celestial-bodies-database/lab-celestial-bodies-database)
 
-My submission: [universe.sql](universe.sql)
+My submission: [universe.sql](1_celestial_bodies_db/universe.sql)
 
 ---
 

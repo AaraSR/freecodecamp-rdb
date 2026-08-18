@@ -1,3 +1,7 @@
+-- Source of Universe data inputted:
+-- 1. https://science.nasa.gov/solar-system/?trk=public_post_comment-text&utm_source=chatgpt.com
+-- 2. https://www.isro.gov.in/ISRO_EN/Science.html?utm_source=chatgpt.com
+
 --
 -- PostgreSQL database dump
 --
