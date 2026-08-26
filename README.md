@@ -12,6 +12,12 @@ Project Instructions Link: [freeCodeCamp: Build a World Cup Database](https://ww
 
 My submissions: [worldcup.sql](2_world_cup_db/worldcup.sql), [insert_data.sh](2_world_cup_db/insert_data.sh), [queries.sh](2_world_cup_db/queries.sh)
 
+## 3. Salon Appointment Scheduler Certification Project
+
+Project Instructions Link: [freeCodeCamp: Build a Salon Appointment Scheduler](https://www.freecodecamp.org/learn/relational-databases-v9/lab-salon-appointment-scheduler/lab-salon-appointment-scheduler)
+
+My submissions: [salon.sql](3_salon_appointment_scheduler_db/salon.sql), [salon.sh](3_salon_appointment_scheduler_db/salon.sh)
+
 ---
 
 Created by 👨‍💻[Aaradhya Raut](https://github.com/AaraSR)
