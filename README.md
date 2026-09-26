@@ -24,6 +24,12 @@ Project Instructions Link: [freeCodeCamp: Build a Periodic Table Database](https
 
 My submissions: [periodic_table.sql](4_periodic_table_db/periodic_table.sql), [element.sh](4_periodic_table_db/element.sh)
 
+## 5. Number Guessing Game Certification Project
+
+Project Instructions Link: [freeCodeCamp: Build a Number Guessing Game](https://www.freecodecamp.org/learn/relational-databases-v9/lab-number-guessing-game/lab-number-guessing-game)
+
+My submissions: [number_guess.sql](5_number_guessing_db/number_guess.sql), [number_guess.sh](5_number_guessing_db/number_guess.sh)
+
 ---
 
 Created by 👨‍💻[Aaradhya Raut](https://github.com/AaraSR)
