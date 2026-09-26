@@ -18,6 +18,12 @@ Project Instructions Link: [freeCodeCamp: Build a Salon Appointment Scheduler](h
 
 My submissions: [salon.sql](3_salon_appointment_scheduler_db/salon.sql), [salon.sh](3_salon_appointment_scheduler_db/salon.sh)
 
+## 4. Periodic Table Certification Project
+
+Project Instructions Link: [freeCodeCamp: Build a Periodic Table Database](https://www.freecodecamp.org/learn/relational-databases-v9/lab-periodic-table-database/lab-periodic-table-database)
+
+My submissions: [periodic_table.sql](4_periodic_table_db/periodic_table.sql), [element.sh](4_periodic_table_db/element.sh)
+
 ---
 
 Created by 👨‍💻[Aaradhya Raut](https://github.com/AaraSR)
